@@ -12,11 +12,13 @@ The controller was also implemented on a CrazyFlie quadrotor to simulate in the 
 <table>
   <tr>
       <td align = "center"> <img src="./Pictures/maze1.gif"> </td>
-      <td align = "center"> <img src="./Result snaps/kwnc.JPG"> </td>
+      <td align = "center"> <img src="./Pictures/3D_Path_1.png"> </td>
+      <td align = "center"> <img src="./Pictures/A_Path_1.png"> </td>
   </tr>
   <tr>
       <td align = "center"> Maze</td>
-      <td align = "center"> Predictions from the model </td>
+      <td align = "center"> Calculated trajectory and path taken </td>
+      <td align = "center"> A* path and Waypoints </td>
   </tr>
 </table>
 
@@ -25,12 +27,20 @@ The controller was also implemented on a CrazyFlie quadrotor to simulate in the 
 <table>
   <tr>
       <td align = "center"> <img src="./Pictures/updown1.gif"> </td>
-      <td align = "center"> <img src="./Result snaps/kwnc.JPG"> </td>
+      <td align = "center"> <img src="./Pictures/3D_Path_2.png"> </td>
   </tr>
   <tr>
       <td align = "center">Up Down</td>
-      <td align = "center"> Predictions from the model </td>
+      <td align = "center"> Calculated trajectory and path taken </td>
+      
   </tr>
+  <tr>
+      <td align = "center"> <img src="./Pictures/A_2.png"> </td>
+  </tr>
+  <tr>
+      <td align = "center"> A* path and Waypoints </td>
+  </tr>
+  
 </table>
 
 ## Map 3 : Window
@@ -38,10 +48,12 @@ The controller was also implemented on a CrazyFlie quadrotor to simulate in the 
 <table>
   <tr>
       <td align = "center"> <img src="./Pictures/window1.gif"> </td>
-      <td align = "center"> <img src="./Result snaps/kwnc.JPG"> </td>
+      <td align = "center"> <img src="./Pictures/3D_Path_3.png"> </td>
+      <td align = "center"> <img src="./Pictures/A_3.png"> </td>
   </tr>
   <tr>
       <td align = "center"> Window</td>
-      <td align = "center"> Predictions from the model </td>
+      <td align = "center"> Calculated trajectory and path taken </td>
+      <td align = "center"> A* path and Waypoints </td>
   </tr>
 </table>
