@@ -1,0 +1,17 @@
+setup.py
+aerial_robotics.egg-info/PKG-INFO
+aerial_robotics.egg-info/SOURCES.txt
+aerial_robotics.egg-info/dependency_links.txt
+aerial_robotics.egg-info/requires.txt
+aerial_robotics.egg-info/top_level.txt
+flightsim/__init__.py
+flightsim/animate.py
+flightsim/axes3ds.py
+flightsim/crazyflie_params.py
+flightsim/hover_traj.py
+flightsim/numpy_encoding.py
+flightsim/shapes.py
+flightsim/simulate.py
+flightsim/system_info.py
+flightsim/world.py
+proj3/__init__.py

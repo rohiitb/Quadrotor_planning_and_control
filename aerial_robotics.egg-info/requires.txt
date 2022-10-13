@@ -1,0 +1,7 @@
+pyyaml
+opencv-python
+cvxopt
+matplotlib==3.2.2
+numpy
+scipy
+timeout_decorator
