@@ -8,6 +8,8 @@ The controller was also implemented on a CrazyFlie quadrotor to simulate in the 
 
 # Results
 
+Below are some of the maps :
+
 ## Map 1 : Maze
 <table>
   <tr>
