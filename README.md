@@ -15,11 +15,17 @@ Below are some of the maps :
   <tr>
       <td align = "center"> <img src="./Pictures/maze1.gif"> </td>
       <td align = "center"> <img src="./Pictures/3D_Path_1.png"> </td>
-      <td align = "center"> <img src="./Pictures/A_Path_1.png"> </td>
+      
   </tr>
   <tr>
       <td align = "center"> Maze</td>
       <td align = "center"> Calculated trajectory and path taken </td>
+      
+  </tr>
+    <tr>
+      <td align = "center"> <img src="./Pictures/A_Path_1.png"> </td>
+  </tr>
+  <tr>
       <td align = "center"> A* path and Waypoints </td>
   </tr>
 </table>
