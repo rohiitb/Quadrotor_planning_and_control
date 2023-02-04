@@ -1,7 +1,7 @@
 # Quadrotor_planning_and_control
 
 This project was done as the part of the course MEAM620 : Advanced Robotics in UPenn. Thi project involves Control and  dynamics of the quadrotor, planning a path through the obstacles using Djikstra's algorithm and A* algorithm.<br> 
-To get the visual inertial odometry, we fused the IMU measurements and the stereo pair camera images to estimate the pose of the flying robot using Error State Kalman filter (ESKF). Another algorithm to get the VIO is Multistate Constraint Kalman filter (MSCKF) which is implemented [here](https://github.com/rohiitb/msckf_vio_python).
+To get the visual inertial odometry, we fused the IMU measurements and the stereo pair camera images to estimate the pose of the flying robot using <strong>Error State Kalman filter (ESKF)</strong>. Another algorithm to get the VIO is <strong>Multistate Constraint Kalman filter (MSCKF)</strong> which is implemented [here](https://github.com/rohiitb/msckf_vio_python).
 <br>
 The controller was also implemented on a CrazyFlie quadrotor to simulate in the real world.
 
